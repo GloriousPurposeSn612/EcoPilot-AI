@@ -1,4 +1,4 @@
-import { createFileRoute, useRouter } from "@tanstack/react-router";
+import { createFileRoute } from "@tanstack/react-router";
 import { useServerFn } from "@tanstack/react-start";
 import { useMemo, useState } from "react";
 import { useForm } from "react-hook-form";
@@ -603,5 +603,3 @@ function Metric({
   );
 }
 
-// avoid unused import lint
-void useRouter;
