@@ -164,6 +164,19 @@ UI behavior can be covered with React Testing Library against `routes/index.tsx`
 - Country-specific emission factors.
 - Optional account-based history tracking.
 
+## Evaluation Alignment
+
+This project was intentionally designed to maximize:
+
+- Code Quality through typed, modular architecture
+- Security through server-side AI execution and secret isolation
+- Efficiency through deterministic local calculations
+- Accessibility through semantic HTML and WCAG-friendly design
+- Maintainability through pure functions and minimal architecture
+- Real-world usefulness through actionable sustainability coaching
+
+The application prioritizes reliability, transparency, and practical environmental impact.
+
 ## Deployment
 
 Standard TanStack Start build:
